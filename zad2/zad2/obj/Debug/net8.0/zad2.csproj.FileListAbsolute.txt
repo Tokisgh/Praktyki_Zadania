@@ -1,0 +1,14 @@
+C:\Users\jakub\source\repos\zad2\zad2\bin\Debug\net8.0\zad2.exe
+C:\Users\jakub\source\repos\zad2\zad2\bin\Debug\net8.0\zad2.deps.json
+C:\Users\jakub\source\repos\zad2\zad2\bin\Debug\net8.0\zad2.runtimeconfig.json
+C:\Users\jakub\source\repos\zad2\zad2\bin\Debug\net8.0\zad2.dll
+C:\Users\jakub\source\repos\zad2\zad2\bin\Debug\net8.0\zad2.pdb
+C:\Users\jakub\source\repos\zad2\zad2\obj\Debug\net8.0\zad2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakub\source\repos\zad2\zad2\obj\Debug\net8.0\zad2.AssemblyInfoInputs.cache
+C:\Users\jakub\source\repos\zad2\zad2\obj\Debug\net8.0\zad2.AssemblyInfo.cs
+C:\Users\jakub\source\repos\zad2\zad2\obj\Debug\net8.0\zad2.csproj.CoreCompileInputs.cache
+C:\Users\jakub\source\repos\zad2\zad2\obj\Debug\net8.0\zad2.dll
+C:\Users\jakub\source\repos\zad2\zad2\obj\Debug\net8.0\refint\zad2.dll
+C:\Users\jakub\source\repos\zad2\zad2\obj\Debug\net8.0\zad2.pdb
+C:\Users\jakub\source\repos\zad2\zad2\obj\Debug\net8.0\zad2.genruntimeconfig.cache
+C:\Users\jakub\source\repos\zad2\zad2\obj\Debug\net8.0\ref\zad2.dll
